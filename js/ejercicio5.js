@@ -1,6 +1,5 @@
 function informacionCadena() {
   let frase = prompt("Por favor, ingresa una frase:");
-
   let Mayusculas = frase === frase.toUpperCase();
   let Minusculas = frase === frase.toLowerCase();
 
